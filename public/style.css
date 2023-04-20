@@ -1,0 +1,15 @@
+body{
+    background-color:lightgoldenrodyellow;
+}
+
+.custom-form{
+    border: solid gray 2px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    
+}
+
+.custom-nav {
+    background-color:burlywood;
+  }
+  
