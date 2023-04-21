@@ -31,7 +31,7 @@ In the terminal:
 
 ## Deployment
 
-Heroku:
+Heroku: https://dry-river-65184.herokuapp.com/
 
 ## Credits
 
